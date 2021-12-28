@@ -1,4 +1,4 @@
-changeProduct(eyeliner);
+
 //before Header Image
     let imageHeaderDiv=document.createElement("div")
     let imageHeader=document.createElement("img")
